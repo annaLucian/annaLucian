@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Codewars](https://www.codewars.com/users/annaLucian/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
 <!--
 **annaLucian/annaLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
