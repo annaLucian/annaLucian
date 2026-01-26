@@ -2,18 +2,45 @@
 
 
 
-Hi folks ⚡
+"Hi Network! ⚡
 
 Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
 
-- 🌱 Actualmente profundizando en el ecosistema de **React & Next.js**.
-- 🎨 Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.
-- 🛠️ "Menos es más": Mi mentalidad se centra en el código limpio y escalable.
+* 🌱 Actualmente profundizando en el ecosistema de **React & Next.js**.
+* 🎨 Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.
+* 🛠️ "Menos es más": Mi mentalidad se centra en el código limpio y escalable.
 
-## 👁‍🗨 Conecta conmigo
 
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
-- **Portfolio**: [Enlace a tu portfolio/web](https://tuweb.com)
+## 🪄 Conecta conmigo
+
+
+* **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/gabriela-poves-navarro/)
+* **Portfolio**: 
+
+## 🚀 Tecnologías y Herramientas
+
+* **React.js** & **Next.js**
+* **JavaScript (ES6+)**
+* **HTML5 & CSS3** (Especialidad en Maquetación)
+* **Tailwind CSS** / Styled Components
+* **Chakra UI**
+
+### Design & Illustration
+
+- **UI Design** (Figma)
+- **Ilustración Digital**
+- **Maquetación Intermedio**
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
 <!--
 **annaLucian/annaLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
