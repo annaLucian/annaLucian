@@ -1,3 +1,6 @@
+![Dawntraoz banner](/assets/gab-bg.jpg)
+
+
 ### Hi there 👋
 ![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
 <!--
