@@ -14,7 +14,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ## 🪄 Conecta conmigo
 
 
-* **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/gabriela-poves-navarro/)
+* **LinkedIn**: <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank">
 * **Portfolio**: 
 
 ## 🚀 Tecnologías y Herramientas
@@ -25,7 +25,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 * **Tailwind CSS** / Styled Components
 * **Chakra UI**
 
-### Design & Illustration
+### 🎨 Design & Illustration
 
 - **UI Design** (Figma)
 - **Ilustración Digital**
