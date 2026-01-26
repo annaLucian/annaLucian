@@ -14,7 +14,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ## 🪄 Conecta conmigo
 
 
-* **LinkedIn**: [GabyPoves](https://www.linkedin.com/in/gabriela-poves-navarro/)
+* **LinkedIn**: [GabyPoves] (<a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank">)
 * **Portfolio**: 
 
 ## 🚀 Tecnologías y Herramientas
