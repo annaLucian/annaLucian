@@ -2,7 +2,7 @@
 
 
 
-"Hi Network! ⚡
+< Hi Network! /> ⚡
 
 Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
 
