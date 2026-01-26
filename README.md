@@ -10,7 +10,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 * 🎨 Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
 * 🛠️ "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=8029F7&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Gabriela.;Frontend+Developer+%26+Senior+Designer.;+8+a%C3%B1os+creando+experiencias+visuales.;Especialista+en+React+%26+UI+Design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=F213F5&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Gabriela.;Frontend+Junior+%26+Dise%C3%B1adora+Gr%C3%A1fica.;+8+a%C3%B1os+creando+experiencias+visuales.;Me+gusta+la+ilustraci%C3%B3n+%F0%9F%8E%A8;Aprendiendo+y+creando+con+React.)](https://git.io/typing-svg)
 
 ## 🪄 Conecta conmigo
 
