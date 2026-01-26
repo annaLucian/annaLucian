@@ -1,8 +1,6 @@
 ![Dawntraoz banner](/assets/gab-bg.jpg)
 
 
-### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
 
 Hi folks ⚡
 
@@ -31,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
