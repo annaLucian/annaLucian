@@ -10,7 +10,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 * 🎨 Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
 * 🛠️ "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
 
-<br><br>
+
 ## 🪄 Conecta conmigo
 
 * **LinkedIn**: <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="/assets//LI-Logo.png" height=20></a> </a>
