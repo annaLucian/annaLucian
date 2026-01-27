@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 ---
 
 ## 💬 ¡Hablemos!
-**¿Buscas una desarrolladora que domine el código y el diseño?** *Estoy lista para transformar tus ideas en interfaces reales.*
+$\color{#A3FF12}{**¿Buscas una Frontend Junior con sólida base en diseño?** }}$
 
 <a href="mailto:gabrielapoves01@gmail.com">
   <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
