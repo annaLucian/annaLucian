@@ -14,7 +14,7 @@
 
 *  Portfolio: 
 
-## 🚀 Tecnologías y Herramientas
+# 🚀 Tecnologías y Herramientas
 
 * **React.js** & **Next.js**
 * **JavaScript (ES6+)**
@@ -23,7 +23,7 @@
 * **Chakra UI**
 * **Maquetación de alta fidelidad**
 
-### 🎨 Design & Illustration
+## 🎨 Design & Illustration
 
 * **UI Design** (Figma)
 * **Ilustración Digital**
