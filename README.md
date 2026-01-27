@@ -11,7 +11,17 @@
  ###  *🖌️ Me gusta la **ilustración** y crear interfaces que impacten.<br><br>
  
 
+<div align="center">
 
+# 🪄 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-poves-navarro/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-F213F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielapoves01@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tu-portfolio.com)
+
+</div>
 
 # 🪄 Conecta conmigo <br>
 
