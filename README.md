@@ -44,7 +44,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stef-ania&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 <!--
