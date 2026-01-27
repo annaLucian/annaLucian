@@ -17,6 +17,8 @@
 
 *  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
 
+* **Email**: <a href="mailto:gabrielapoves01@ejemplo.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" align="center" /> </a> [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+
 *  Portfolio: 
 <br><br>
 
