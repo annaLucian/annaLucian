@@ -40,24 +40,10 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ## 📈 ![Gabriela's GitHub stats]
 <br>
 <br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=neon&show_icons=true" height="180em" />
-</p>
-<br>
-<br>
-
-<div>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=annaLucian&theme=neon" alt="Lenguajes más usados" />
-</p>
-
-
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annaLucian&theme=neon" alt="Lenguajes más usados" />
-</p>
-</div>
+<a href="https://github.com/annaLucian">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annaLucian&theme=dracula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=annaLucian&theme=dracula" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annaLucian&theme=dracula" height="180em"/></a>
 
 
 <!--
