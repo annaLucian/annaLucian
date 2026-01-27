@@ -6,9 +6,9 @@
 
 ### Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
 
-* 🌱 Actualmente profundizando en el ecosistema de **React & Next.js**.<br>
-* 🎨 Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
-* 🛠️ "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
+* 🌱 ### Actualmente profundizando en el ecosistema de **React & Next.js**.<br>
+* 🎨 ### Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
+* 🛠️ ### "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
 
 
 ## 🪄 Conecta conmigo
