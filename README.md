@@ -3,8 +3,7 @@
 > **🎨 El valor de mi perfil:** Como Diseñadora Gráfica publicitaria, mi especialidad es transformar diseños de Figma o ilustraciones detalladas en código maquetado de alta fidelidad (**Pixel Perfect**). Mi objetivo es que la experiencia del usuario sea tan fluida como la estética de la interfaz.<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=F213F5&width=600&lines=%3C+Hi+Network!+/%3E+%E2%9A%A1;Desarrollando+ideas...+%F0%9F%92%BB;Dise%C3%B1ando+experiencias...+%F0%9F%8E%A8;Frontend+Junior+%2B+8+a%C3%B1os+de+Dise%C3%B1o.)](https://git.io/typing-svg)
-
- Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
+Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
 
 
 * 🌱  Actualmente profundizando en el ecosistema de **React & Next.js**.<br>
