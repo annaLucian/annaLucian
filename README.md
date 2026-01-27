@@ -15,7 +15,7 @@
 
 *  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
 
-## * Portfolio**: 
+## ** Portfolio**: 
 
 ## 🚀 Tecnologías y Herramientas
 
