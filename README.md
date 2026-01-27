@@ -2,7 +2,7 @@
 
 
 
-< Hi Network! /> ⚡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=F213F5&width=600&lines=%3C+Hi+Network!+/%3E+%E2%9A%A1;Desarrollando+ideas...+%F0%9F%92%BB;Dise%C3%B1ando+experiencias...+%F0%9F%8E%A8;Frontend+Junior+%2B+8+a%C3%B1os+de+Dise%C3%B1o.)](https://git.io/typing-svg)⚡
 
 Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear interfaces que no solo funcionen, sino que **impacten**. Combinando mi formación en **React** con una sólida base en **Diseño gráfico**, mi propósito es sincronizar el concepto visual con el código, transformando ideas creativas en experiencias web interactivas, limpias y eficientes.
 
@@ -45,7 +45,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=annaLucian&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+<img align="center" src="github-readme-stats.vercel.app/api/cards/stats?username=annaLucian&theme=catppuccin_latte" height="200px"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
