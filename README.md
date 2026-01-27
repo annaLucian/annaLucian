@@ -13,7 +13,7 @@
 
 <div >
 
-# 🪄 Conecta conmigo
+# 🪄 Conecta conmigo <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-poves-navarro/)
 &nbsp;
@@ -21,7 +21,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tu-portfolio.com)
 
-</div>
+</div><br><br>
 
 
 # 🚀 Tecnologías y Herramientas
