@@ -27,7 +27,7 @@
 ### * **HTML5 & CSS3** (Especialidad en Maquetación)
 ### * **Tailwind CSS** / Styled Components
 ### * **Chakra UI**
-### * **Maquetación de alta fidelidad**
+### * **Maquetación de alta fidelidad**<br><br>
 
 ## 🎨 Design & Illustration
 
