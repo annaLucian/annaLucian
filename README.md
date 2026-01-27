@@ -19,7 +19,7 @@
 
 * ### | <a href="mailto:gabrielapoves01@ejemplo.com"> <img src="/assets/email.png" width="40" align="center" /> </a>  | &nbsp;&nbsp;&nbsp; [gabrielapoves01@ejemplo.com](mailto:gabrielapoves01@ejemplo.com) 
 
-*  | <a href="/" target="_blank"><img src="./assets/portafolio.png" width="140" align="center"></a>
+*  | <a href="/" target="_blank"><img src="./assets/portafolio.png" width="80" align="center"></a>
 <br><br>
 
 # 🚀 Tecnologías y Herramientas
