@@ -21,7 +21,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tu-portfolio.com)
 
-</div><br>
+</div>
 
 ### 🛠️ Mi Stack Tecnológico
 
