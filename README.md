@@ -92,4 +92,21 @@ Here are some ideas to get you started:
 ![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23F213F5)
 
 </div>
+<br />
+<div align="center">
+
+---
+
+## 💬 ¡Hablemos!
+**¿Buscas una desarrolladora que domine el código y el diseño?** *Estoy lista para transformar tus ideas en interfaces reales.*
+
+<a href="mailto:gabrielapoves01@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
