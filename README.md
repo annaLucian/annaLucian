@@ -37,6 +37,7 @@
 
 
 
+
 ## 📈 [Gabriela's GitHub stats] 
 <br>
 <a href="https://github.com/annaLucian">
@@ -60,6 +61,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=annaLucianB&stroke=%23F213F5)
+
+</div>
