@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 ---
 
 ## 💬 ¡Hablemos!
+### $\color{#A3FF12}{\textsf{¿Buscas una Frontend Junior con sólida base en diseño?}}$
 $\color{#A3FF12}{¿Buscas una Frontend Junior con sólida base en diseño? }}$
 
 <a href="mailto:gabrielapoves01@gmail.com">
