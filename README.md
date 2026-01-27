@@ -13,18 +13,6 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 * 🖌️ Me gusta la **ilustración** y crear interfaces que impacten.<br><br>
 
 
-<div >
-
-### 🪄 Conecta conmigo <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-poves-navarro/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-F213F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielapoves01@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tu-portfolio.com)
-
-</div> <br> 
-
 # 🚀 Tecnologías y Herramientas
 
 ### ❖ Desarrollo (Frontend & Tooling)
@@ -106,6 +94,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
 
 </div>
