@@ -9,7 +9,7 @@
 * 🎨  Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
 * 🛠️  "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br>
 * 🖌️ Me gusta la **ilustración** y crear interfaces que impacten.<br><br>
- 
+
 
 <div >
 
@@ -28,7 +28,7 @@
 ### ❖ Desarrollo (Frontend & Tooling)
 
 * **Lenguajes** <br><br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 * **Frameworks & Librerías**<br><br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
