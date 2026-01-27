@@ -13,7 +13,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 
 ## 🪄 Conecta conmigo
 
-* **LinkedIn**: <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="/assets//LI-Logo.png" height=20></a> </a>
+* | **LinkedIn** | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/linkedin.png" width="20" align="center"></a> |
 * **Portfolio**: 
 
 ## 🚀 Tecnologías y Herramientas
@@ -35,7 +35,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 
 
 
-## 📈 ![Gabriela's GitHub stats]
+## 📈 [Gabriela's GitHub stats]
 <br>
 <a href="https://github.com/annaLucian">
 <br>
