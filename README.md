@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=annaLucianB&stroke=%23F213F5)
+![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23F213F5)
 
 </div>
+
+### Hi there 👋
+![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
