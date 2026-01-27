@@ -1,5 +1,8 @@
 ![Dawntraoz banner](/assets/gab-bg.jpg)
-+ 🎨 El valor de mi perfil: Como Diseñadora Gráfica publicitaria, mi especialidad es transformar diseños de Figma o ilustraciones detalladas en código maquetado de alta fidelidad (Pixel Perfect). Mi objetivo es que la experiencia del usuario sea tan fluida como la estética de la interfaz.
+### $\color{#A3FF12}{\textsf{🎨 El valor de mi perfil:}}$
+$\color{#A3FF12}{\textsf{Como Diseñadora Gráfica publicitaria, mi especialidad es transformar diseños de Figma o ilustraciones}}$
+$\color{#A3FF12}{\textsf{detalladas en código maquetado de alta fidelidad (Pixel Perfect). Mi objetivo es que la experiencia}}$
+$\color{#A3FF12}{\textsf{del usuario sea tan fluida como la estética de la interfaz.}}$
 
 > **🎨 El valor de mi perfil:** Como Diseñadora Gráfica publicitaria, mi especialidad es transformar diseños de Figma o ilustraciones detalladas en código maquetado de alta fidelidad (**Pixel Perfect**). Mi objetivo es que la experiencia del usuario sea tan fluida como la estética de la interfaz.<br><br>
 
