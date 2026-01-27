@@ -47,6 +47,7 @@
 ### * **Procreate**<br><br>
 
 ## 📈 [Gabriela's GitHub stats] 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&show_icons=true&title_color=F213F5&icon_color=F213F5&text_color=555555&bg_color=ffffff" />
 <br>
 <a href="https://github.com/annaLucian">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
