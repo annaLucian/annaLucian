@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div>
 
 ### 🧠 Retos de Lógica <br><br>
 
