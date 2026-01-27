@@ -11,7 +11,7 @@
 ### * 🛠️  "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
 
 
-## 🪄 Conecta conmigo
+# 🪄 Conecta conmigo
 
 *  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
 * **Portfolio**: 
