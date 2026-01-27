@@ -34,11 +34,7 @@
 ### * **UI Design** (Figma)
 ### * **Ilustración Digital**
 ### * **UX/UI**
-### * **Procreate**
-
-
-
-
+### * **Procreate**<br><br>
 
 ## 📈 [Gabriela's GitHub stats] 
 <br>
