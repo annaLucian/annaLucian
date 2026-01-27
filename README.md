@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-### 🧠 Logic & Problem Solving
+### 🧠 Retos de Lógica <br><br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23F213F5)
 
