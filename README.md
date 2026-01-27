@@ -40,7 +40,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ## 📈 ![Gabriela's GitHub stats]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=catppuccin_mochak&show_icons=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=draculak&show_icons=true" alt="Estadísticas de GitHub" height="180em"/>
 </p>
 
 <p align="center">
