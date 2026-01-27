@@ -39,7 +39,7 @@
 <a href="https://github.com/annaLucian">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="10rem"/>
 
 
 <!--
