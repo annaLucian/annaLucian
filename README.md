@@ -21,7 +21,7 @@
   <a href="mailto:gabrielapoves01@gmail.com">
     <img src="/assets/email.png" width="40" align="center" />
   </a>
-  <span style="font-size: 2em;">
+  <span style="font-size: 2rem;">
     <b><a href="mailto:gabrielapoves01@gmail.com">gabrielapoves01@gmail.com</a></b>
   </span>
 </div>
