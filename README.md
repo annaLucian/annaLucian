@@ -11,7 +11,7 @@
  ###  *🖌️ Me gusta la **ilustración** y crear interfaces que impacten.<br><br>
  
 
-<div align="center">
+<div >
 
 # 🪄 Conecta conmigo
 
@@ -23,14 +23,6 @@
 
 </div>
 
-# 🪄 Conecta conmigo <br>
-
-*  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
-
-* ### | <a href="mailto:gabrielapoves01@ejemplo.com"> <img src="/assets/email.png" width="40" align="center" /> </a>  | &nbsp;&nbsp;&nbsp; [gabrielapoves01@ejemplo.com](mailto:gabrielapoves01@ejemplo.com) 
-
-*  | <a href="/" target="_blank"><img src="./assets/portafolio.png" width="80" align="center"></a>
-<br><br>
 
 # 🚀 Tecnologías y Herramientas
 
