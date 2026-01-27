@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💬 ¡Hablemos!
+### 💬 ¡Hablemos!<br>
 ### $\color{#A3FF12}{\textsf{¿Buscas una Frontend Junior con sólida base en diseño?}}$
 <a href="mailto:gabrielapoves01@gmail.com">
   <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
