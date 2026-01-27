@@ -17,7 +17,14 @@
 
 *  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
 
-* | <a href="mailto:gabrielapoves01@ejemplo.com"> <img src="/assets/email.png" width="40" align="center" /> </a>  |   [gabrielapoves01@ejemplo.com](mailto:gabrielapoves01@ejemplo.com) 
+* <div align="center">
+  <a href="mailto:gabrielapoves01@gmail.com">
+    <img src="/assets/email.png" width="40" align="center" />
+  </a>
+  <span style="font-size: 2em;">
+    <b><a href="mailto:gabrielapoves01@gmail.com">gabrielapoves01@gmail.com</a></b>
+  </span>
+</div>
 
 *  Portfolio: 
 <br><br>
