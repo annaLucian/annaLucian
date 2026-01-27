@@ -45,7 +45,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="195rem"/>
 
-
+<br><br>
 <!--
 **annaLucian/annaLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,12 +63,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-### Hi there 👋
+### 🧠 Logic & Problem Solving
+
 ![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23F213F5)
 
 </div>
 
-### Hi there 👋
-<p align="center">
-  <img src="https://github.r2v.ch/codewars?user=annaLucianB&stroke=%23F213F5&text=%23F213F5&background=%23FFFFFF" alt="Codewars Stats" />
-</p>
