@@ -36,24 +36,6 @@
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### 🎨 Herramientas de Diseño
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Procreate-black?style=for-the-badge&logo=procreate&logoColor=white" />
-
-# 🚀 Tecnologías y Herramientas
-
-### * **React.js** & **Next.js**
-### * **JavaScript (ES6+)**
-### * **HTML5 & CSS3** (Especialidad en Maquetación)
-### * **Tailwind CSS** / Styled Components
-### * **Chakra UI**
-### * **Maquetación de alta fidelidad**<br><br>
-
-## 🎨 Design & Illustration
-
- * **UI Design** (Figma)
- * **Ilustración Digital**
- * **UX/UI**
- * **Procreate**<br><br>
 
 ## 📈 [Gabriela's GitHub stats] 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&show_icons=true&title_color=F213F5&icon_color=F213F5&text_color=555555&bg_color=ffffff" />
