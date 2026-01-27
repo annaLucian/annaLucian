@@ -45,7 +45,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 <br>
 <br>
 <br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=annaLucian&theme=dracula" height="200px"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=annaLucian&theme=catppuccin_latte" height="200px"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
