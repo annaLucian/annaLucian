@@ -8,6 +8,7 @@
  ### * 🌱  Actualmente profundizando en el ecosistema de **React & Next.js**.<br>
  ### * 🎨  Me gusta llevar diseños de Figma/Ilustración a **código maquetado**.<br>
  ### * 🛠️  "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
+ ###  *🖌️ Me gusta la **ilustración** y crear interfaces que impacten.
 
 
 
