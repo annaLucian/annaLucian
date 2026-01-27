@@ -14,9 +14,20 @@
 <div >
 
 ### 🪄 Conecta conmigo <br>
+<div align="center">
 
-| [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> ](https://www.linkedin.com/in/gabriela-poves-navarro/) | [ <img src="https://img.shields.io/badge/Email-F213F5?style=for-the-badge&logo=gmail&logoColor=white" height="35"> ](mailto:gabrielapoves01@gmail.com) | [ <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" height="35"> ](https://tu-portfolio.com) |
+# 🪄 Conecta conmigo
+
+| [ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> ](https://www.linkedin.com/in/gabriela-poves-navarro/) | [ <img src="https://img.shields.io/badge/Email-F213F5?style=for-the-badge&logo=gmail&logoColor=white" height="35"> ](mailto:gabrielapoves01@gmail.com) | [ <img src="https://img.shields.io/badge/---Portfolio---000000?style=for-the-badge&logo=codepen&logoColor=white" height="35"> ](https://tu-portfolio.com) |
 | :---: | :---: | :---: |
+
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-poves-navarro/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-F213F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielapoves01@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
