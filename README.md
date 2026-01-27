@@ -56,7 +56,7 @@
 * **Gestores de Contenido**<br><br>
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 
-### Especialidades
+### ❖ Especialidades
 <img src="https://img.shields.io/badge/Pixel_Perfect-F213F5?style=for-the-badge&logo=strapi&logoColor=white" /> <img src="https://img.shields.io/badge/Alta_Fidelidad-8029F7?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" /><br><br>
 
 
