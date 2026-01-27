@@ -51,9 +51,9 @@
 
 ---
 
-## ❖ CMS & Plataformas
+### ❖ CMS & Plataformas
 
-**Gestores de Contenido**
+* **Gestores de Contenido**<br><br>
 <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 
 ### Especialidades
