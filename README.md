@@ -69,4 +69,6 @@ Here are some ideas to get you started:
 </div>
 
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23BB432C)
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=annaLucianB&stroke=%23F213F5&text=%23F213F5&background=%23FFFFFF" alt="Codewars Stats" />
+</p>
