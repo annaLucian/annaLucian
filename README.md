@@ -34,10 +34,10 @@
 
 
 
-## 📈 [Gabriela's GitHub stats]
+## 📈 [Gabriela's GitHub stats] 
 <br>
 <a href="https://github.com/annaLucian">
-<img align="center" src="github-readme-stats.vercel.app/api/cards/stats?username=annaLucian&theme=catppuccin_latte" height="200px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
