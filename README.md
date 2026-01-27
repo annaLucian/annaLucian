@@ -42,7 +42,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 <br>
 <br>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annaLucian&theme=midnight-purple" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annaLucian&theme=neon" height="180em" />
 </p>
 
 
