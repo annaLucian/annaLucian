@@ -10,27 +10,29 @@
  ### * 🛠️  "Menos es más": Mi mentalidad se centra en el código limpio y escalable.<br><br>
 
 
+
 # 🪄 Conecta conmigo <br>
 
 *  | <a href="https://www.linkedin.com/in/gabriela-poves-navarro/" target="_blank"><img src="./assets/LI-Logo.png" width="140" align="center"></a> |
 
 *  Portfolio: 
 
+
 # 🚀 Tecnologías y Herramientas
 
-* **React.js** & **Next.js**
-* **JavaScript (ES6+)**
-* **HTML5 & CSS3** (Especialidad en Maquetación)
-* **Tailwind CSS** / Styled Components
-* **Chakra UI**
-* **Maquetación de alta fidelidad**
+### * **React.js** & **Next.js**
+### * **JavaScript (ES6+)**
+### * **HTML5 & CSS3** (Especialidad en Maquetación)
+### * **Tailwind CSS** / Styled Components
+### * **Chakra UI**
+### * **Maquetación de alta fidelidad**
 
 ## 🎨 Design & Illustration
 
-* **UI Design** (Figma)
-* **Ilustración Digital**
-* **UX/UI**
-* **Procreate**
+### * **UI Design** (Figma)
+### * **Ilustración Digital**
+### * **UX/UI**
+### * **Procreate**
 
 
 
