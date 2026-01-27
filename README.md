@@ -78,3 +78,23 @@ Here are some ideas to get you started:
 
 </div>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Nombre del Proyecto 1</h3>
+      <img src="https://via.placeholder.com/400x200?text=Captura+de+tu+Proyecto" alt="Proyecto 1">
+      <p>Descripción corta: Aplicación de React que soluciona X problema usando la API de Y.</p>
+      <p align="center">
+        <a href="LINK_AL_REPO">💻 Código</a> | <a href="LINK_AL_DEMO">🚀 Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nombre del Proyecto 2</h3>
+      <img src="https://via.placeholder.com/400x200?text=Captura+de+tu+Proyecto" alt="Proyecto 2">
+      <p>Descripción corta: Landing page de alta fidelidad maquetada desde Figma a Tailwind CSS.</p>
+      <p align="center">
+        <a href="LINK_AL_REPO">💻 Código</a> | <a href="LINK_AL_DEMO">🚀 Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
