@@ -93,16 +93,20 @@ Here are some ideas to get you started:
 ### 🚀 Busco mi primera oportunidad como Frontend Dev
 Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, y quiera escribir código limpio en **React**, me encantaría charlar contigo.
 
-<a href="mailto:gabrielapoves01@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
+
+<p>
+  <a href="mailto:gabrielapoves01@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Correo-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+  </a>
+</p>
 
 </div>
 <br>
