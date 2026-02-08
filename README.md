@@ -56,8 +56,8 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="195rem"/>
-</a>
 <br><br>
+</a>
 <!--
 **annaLucian/annaLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
