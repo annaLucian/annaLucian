@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ### 🧠 Retos de Lógica <br><br>
 
 <a href="https://www.codewars.com/users/annaLucian">
-  <img src="/assets/code-wars-large.svg" alt="Codewars Badge" height="195rem"/>
+  <img src="/assets/code-wars-large.svg" alt="Codewars Badge" height="10rem"/>
 </a>
 
 </div>
