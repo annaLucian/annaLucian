@@ -18,36 +18,36 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ### ❖ Desarrollo (Frontend & Tooling)
 
 * **Lenguajes** <br><br>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 * **Frameworks & Librerías**<br><br>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 * **Estilos**<br><br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 * **Herramientas & Testing**<br><br>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 
 ---
 
 ### ❖ Diseño (Gráfico & Editorial)
 
 * **Suite Adobe**<br><br>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 
 * **Ilustración & Vector**<br><br>
-<img src="https://img.shields.io/badge/Corel%20Draw-000000?style=flat-square&logo=Corel%20Draw&logoColor=white" /> <img src="https://img.shields.io/badge/Procreate-black?style=flat-square&logo=procreate&logoColor=white" />
+<img src="https://img.shields.io/badge/Corel%20Draw-000000?style=for-the-badge&logo=Corel%20Draw&logoColor=white" /> <img src="https://img.shields.io/badge/Procreate-black?style=for-the-badge&logo=procreate&logoColor=white" />
 
 ---
 
 ### ❖ CMS & Plataformas
 
 * **Gestores de Contenido**<br>
-<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=WordPress&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 
 ### ❖ Especialidades
-<img src="https://img.shields.io/badge/Pixel_Perfect-F213F5?style=flat-square&logo=strapi&logoColor=white" /> <img src="https://img.shields.io/badge/Alta_Fidelidad-8029F7?style=flat-square&logo=adobe-creative-cloud&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Pixel_Perfect-F213F5?style=for-the-badge&logo=strapi&logoColor=white" /> <img src="https://img.shields.io/badge/Alta_Fidelidad-8029F7?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" /><br><br>
 
 
 
@@ -94,14 +94,14 @@ Here are some ideas to get you started:
 Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, y quiera escribir código limpio en **React**, me encantaría charlar contigo.
 
 <a href="mailto:gabrielapoves01@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>
 
 </div>
