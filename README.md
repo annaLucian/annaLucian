@@ -84,6 +84,14 @@ Here are some ideas to get you started:
 <div >
 
 ---
+---
+
+### 🚀 Busco mi primera oportunidad como Frontend Dev
+Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, entienda la estética y escriba código limpio en **React**, me encantaría charlar contigo.
+
+[📩 Envíame un correo](mailto:gabrielapoves01@gmail.com)  |  [🤝 Conectemos en LinkedIn](https://www.linkedin.com/in/gabriela-poves-navarro/)
+
+---
 
 ### 💬 ¡Hablemos!<br> <br>
 ### ¿Buscas una Frontend Junior con sólida base en diseño?<br> <br>
