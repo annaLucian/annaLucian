@@ -52,11 +52,12 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 
 
 ## 📈 [Gabriela's GitHub stats] 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annaLucian&show_icons=true&theme=buefy&count_private=true" alt="GitHub Stats" height="195rem" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&theme=buefy&hide_colors=false" alt="Most used languages" height="195rem" />
-</p>
+<a href="https://github.com/annaLucian">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
+</a>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="195rem"/>
+</a>
 <br><br>
 
 <!--
@@ -92,24 +93,16 @@ Here are some ideas to get you started:
 ### 🚀 Busco mi primera oportunidad como Frontend Dev
 Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, y quiera escribir código limpio en **React**, me encantaría charlar contigo.
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="mailto:gabrielapoves01@gmail.com">
-        <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=flat-square&logo=gmail&logoColor=white" heigth="200rem"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:gabrielapoves01@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" />
+</a>
+
 </div>
 <br>
