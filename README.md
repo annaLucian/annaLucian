@@ -55,9 +55,9 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 <br><br>
 <p>
 <a href="https://github.com/annaLucian">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annaLucian&theme=dracula" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=annaLucian&theme=dracula" height="160em"/>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annaLucian&theme=dracula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annaLucian&theme=dracula" height="160em" />
 </a>
 </p>
 
