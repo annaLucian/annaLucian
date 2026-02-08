@@ -18,7 +18,7 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ### ❖ Desarrollo (Frontend & Tooling)
 
 * **Lenguajes** <br><br>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 * **Frameworks & Librerías**<br><br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -34,30 +34,32 @@ Mi nombre es **Gabriela**, soy un **Frontend Junior Developer** me gusta crear i
 ### ❖ Diseño (Gráfico & Editorial)
 
 * **Suite Adobe**<br><br>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white" />
 
 * **Ilustración & Vector**<br><br>
-<img src="https://img.shields.io/badge/Corel%20Draw-000000?style=for-the-badge&logo=Corel%20Draw&logoColor=white" /> <img src="https://img.shields.io/badge/Procreate-black?style=for-the-badge&logo=procreate&logoColor=white" />
+<img src="https://img.shields.io/badge/Corel%20Draw-000000?style=flat-square&logo=Corel%20Draw&logoColor=white" /> <img src="https://img.shields.io/badge/Procreate-black?style=flat-square&logo=procreate&logoColor=white" />
 
 ---
 
 ### ❖ CMS & Plataformas
 
 * **Gestores de Contenido**<br>
-<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=WordPress&logoColor=white" />
 
 ### ❖ Especialidades
-<img src="https://img.shields.io/badge/Pixel_Perfect-F213F5?style=for-the-badge&logo=strapi&logoColor=white" /> <img src="https://img.shields.io/badge/Alta_Fidelidad-8029F7?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Pixel_Perfect-F213F5?style=flat-square&logo=strapi&logoColor=white" /> <img src="https://img.shields.io/badge/Alta_Fidelidad-8029F7?style=flat-square&logo=adobe-creative-cloud&logoColor=white" /><br><br>
 
 
 
 ## 📈 [Gabriela's GitHub stats] 
 <a href="https://github.com/annaLucian">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaLucian&theme=buefy&show_icons=true"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="195rem"/>
-<br><br>
 </a>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaLucian&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages"  height="195rem"/>
+</a>
+<br><br>
+
 <!--
 **annaLucian/annaLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,7 +79,9 @@ Here are some ideas to get you started:
 
 ### 🧠 Retos de Lógica <br><br>
 
-![Codewars](https://github.r2v.ch/codewars?user=annaLucian&stroke=%23F213F5)
+<a href="https://www.codewars.com/users/annaLucian">
+  <img src="/assets/code-wars-large.svg" alt="Codewars Badge" height="195rem"/>
+</a>
 
 </div>
 <br />
@@ -87,23 +91,17 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Busco mi primera oportunidad como Frontend Dev
-Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, entienda la estética y escriba código limpio en **React**, me encantaría charlar contigo.
+Mi objetivo es sencillo: **hacer que el código se vea tan bien como el diseño.** Si buscas a alguien que cuide el detalle, y quiera escribir código limpio en **React**, me encantaría charlar contigo.
 
-[📩 Envíame un correo](mailto:gabrielapoves01@gmail.com)  |  [🤝 Conectemos en LinkedIn](https://www.linkedin.com/in/gabriela-poves-navarro/)
-
----
-
-### 💬 ¡Hablemos!<br> <br>
-### ¿Buscas una Frontend Junior con sólida base en diseño?<br> <br>
 <a href="mailto:gabrielapoves01@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enviar_Correo-F213F5?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabriela-poves-navarro/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=codepen&logoColor=white" />
 </a>
 
 </div>
